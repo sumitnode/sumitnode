@@ -45,3 +45,15 @@ A real-time chat application built with the MERN stack for seamless messaging an
 A community platform for discovering and discussing AI news and articles, featuring user authentication, publishing, likes, and comments.
 
 👉 Check out my [portfolio](https://sumitk-dev.vercel.app/) to see more of my work.
+
+
+
+## 🤝 Connect With Me
+
+- 🌐 Portfolio: [sumitk-dev.vercel.app](https://sumitk-dev.vercel.app/)
+- 💼 LinkedIn: [Sumit Kumar](https://www.linkedin.com/in/sumit-kumar-07681a2a0/)
+- 💻 GitHub: [@sumitnode](https://github.com/sumitnode)
+
+---
+
+⭐ Feel free to explore my repositories and projects!
